@@ -50,3 +50,7 @@
     font-size: 4vmin;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.msg p{
+    font-family: 'Courier New', Courier, monospace;
+}
